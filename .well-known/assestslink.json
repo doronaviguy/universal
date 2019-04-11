@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.taboola.hackathon",
+    "sha256_cert_fingerprints":
+    ["4D:A0:C5:9F:10:5E:44:31:76:4A:D3:F8:65:EF:8F:9D:AF:4D:07:EC:62:F5:88:8B:0D:82:2C:64:91:10:D7:68"]
+  }]
